@@ -1,4 +1,4 @@
-# ✨ Harmonize: A Responsible Gen AI Chatbot for Mental Health Support ✨
+#  Harmonize: A Responsible Gen AI Chatbot for Mental Health Support 
 
 Welcome to the **Harmonize** project repository!  
 This capstone project is built by a team of final-year B.Tech students specializing in **AI/ML, Big Data, and Cybersecurity**.  
